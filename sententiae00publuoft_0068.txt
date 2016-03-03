@@ -1,0 +1,30 @@
+ABBREVIATIONS.
+
+Be = Bentley
+
+Bo = Bothe
+
+Bu = Buecheler
+Er = Erasmus
+Fa = Fabricius
+Fr = Friedrich
+Go = Godofredus
+Gr = Gruter
+
+Hg = Hartung
+Mr = Meyer
+
+Or = Orelli
+
+Pn = Panthaleon
+Ps = Pithoeus
+Qu = Quicherat
+Re = Reinhold
+Ri = Ribbeck
+
+Sc = Scaliger
+
+Sp = Spengel
+St = H. Stephanus
+Wo = Woelfflin
+
